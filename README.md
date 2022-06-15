@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a backend developer with experience in Go.
+I am a backend developer with more than a year of experience in Go. I have experience in designing new microservices and splitting monolith app into several independent services as well as creating perfect UX with React & TypeScript/JavaScript.
 
 I've also worked on Data Enginering and DevOps tasks at my company where we needed to collect and analyze a lot of data about client activity and the performance of our services. I've worked on loading data into Elasticsearch and visualizing it with Kibana dashboards for managers and our clients.
 
