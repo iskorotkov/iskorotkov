@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-I am a backend developer with more than a year of experience in Go. I have experience in designing new microservices and splitting monolith app into several independent services as well as creating perfect UX with React & TypeScript/JavaScript.
+I am a backend developer with vast experience in Go.
 
-I've also worked on Data Enginering and DevOps tasks at my company where we needed to collect and analyze a lot of data about client activity and the performance of our services. I've worked on loading data into Elasticsearch and visualizing it with Kibana dashboards for managers and our clients.
+I have experience in designing, implementing and deploying microservices using Go, RabbitMQ, Kafka and Kubernetes. I worked on splitting both Go and PHP monoliths into independent services, implemented event-driven architecture.
+
+I worked with REST, gRPC and GraphQL APIs, SSH, TELNET and SNMP. I used Kafka, RabbitMQ, PostgreSQL, Elasticsearch and Redis.
+
+Though backend development is my main focus, I also created frontend apps with React.js & TypeScript/JavaScript and implemented data transformation pipelines (ETL).
 
 See [me on LinkedIn](https://www.linkedin.com/in/iskorotkov/).
 
