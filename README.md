@@ -16,3 +16,9 @@ Interesting projects I've made:
 - leader election algorithm implementation ([repo](https://github.com/iskorotkov/bully-election))
 - package manager for downloading and unpacking releases directly from GitHub ([repo](https://github.com/iskorotkov/package-manager-cli))
 - dashboard with stock and crypto prices that can be deployed to K8S ([org](https://github.com/finance-dashboard))
+
+My opensource contributions:
+
+- https://github.com/ccxt/go-binance/pull/514, https://github.com/ccxt/go-binance/pull/515
+- https://github.com/hirokisan/bybit/pull/159, https://github.com/hirokisan/bybit/pull/158, https://github.com/hirokisan/bybit/pull/157, https://github.com/hirokisan/bybit/pull/156
+- https://github.com/tomusdrw/rust-web3/pull/715
