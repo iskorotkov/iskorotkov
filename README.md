@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Download my CV](https://raw.githubusercontent.com/iskorotkov/iskorotkov/refs/heads/master/Senior%20Go%20Developer%20-%20Ivan%20Korotkov.pdf)
+
 I am a backend developer with vast experience in Go.
 
 I have experience in designing, implementing and deploying microservices using Go, RabbitMQ, Kafka and Kubernetes. I worked on splitting both Go and PHP monoliths into independent services, implemented event-driven architecture.
