@@ -1,9 +1,3 @@
----
-layout: default
-title: Ivan Korotkov - Senior Go Developer
-description: Senior Go Developer specializing in Go, Rust, and TypeScript
----
-
 ### Hi there 👋
 
 [Download my CV](./Senior%20Go%20Developer%20-%20Ivan%20Korotkov.pdf) (or use [direct link](https://raw.githubusercontent.com/iskorotkov/iskorotkov/refs/heads/master/Senior%20Go%20Developer%20-%20Ivan%20Korotkov.pdf))
