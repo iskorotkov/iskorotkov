@@ -21,6 +21,6 @@ Interesting projects I've made:
 
 My opensource contributions:
 
-- https://github.com/ccxt/go-binance/pull/514, https://github.com/ccxt/go-binance/pull/515
-- https://github.com/hirokisan/bybit/pull/159, https://github.com/hirokisan/bybit/pull/158, https://github.com/hirokisan/bybit/pull/157, https://github.com/hirokisan/bybit/pull/156
-- https://github.com/tomusdrw/rust-web3/pull/715
+- [ccxt/go-binance#514](https://github.com/ccxt/go-binance/pull/514), [ccxt/go-binance#515](https://github.com/ccxt/go-binance/pull/515)
+- [hirokisan/bybit#159](https://github.com/hirokisan/bybit/pull/159), [hirokisan/bybit#158](https://github.com/hirokisan/bybit/pull/158), [hirokisan/bybit#157](https://github.com/hirokisan/bybit/pull/157), [hirokisan/bybit#156](https://github.com/hirokisan/bybit/pull/156)
+- [tomusdrw/rust-web3#715](https://github.com/tomusdrw/rust-web3/pull/715)
