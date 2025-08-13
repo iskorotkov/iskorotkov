@@ -1,0 +1,22 @@
+title: Ivan Korotkov
+description: Senior Go Developer
+url: https://iskorotkov.com
+baseurl: ""
+
+markdown: kramdown
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+author: Ivan Korotkov
+social:
+  name: Ivan Korotkov
+  links:
+    - https://github.com/iskorotkov
+    - https://www.linkedin.com/in/iskorotkov/
+
+exclude:
+  - LICENSE
+  - CNAME
