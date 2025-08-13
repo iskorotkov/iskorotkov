@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Download my CV](https://raw.githubusercontent.com/iskorotkov/iskorotkov/refs/heads/master/Senior%20Go%20Developer%20-%20Ivan%20Korotkov.pdf)
+[Download my CV](./Senior%20Go%20Developer%20-%20Ivan%20Korotkov.pdf) (or use [direct link](https://raw.githubusercontent.com/iskorotkov/iskorotkov/refs/heads/master/Senior%20Go%20Developer%20-%20Ivan%20Korotkov.pdf))
 
 I am a backend developer with vast experience in Go.
 
