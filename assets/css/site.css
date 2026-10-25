@@ -44,10 +44,11 @@ h1::after {
   border-radius: 3px;
   background: var(--accent);
 }
-h3 { font-size: 1.15rem; margin: 32px 0 8px; }
+h2 { font-size: 1.2rem; margin: 32px 0 8px; }
+h3 { font-size: 1.05rem; margin: 24px 0 8px; }
 
 a { color: var(--link); text-decoration-thickness: 1px; text-underline-offset: 3px; }
-a:hover { color: var(--accent); }
+a:hover { text-decoration-color: var(--accent); text-decoration-thickness: 2px; }
 
 ul { padding-left: 22px; }
 li { margin: 4px 0; }
