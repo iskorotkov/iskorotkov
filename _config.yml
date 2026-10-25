@@ -2,6 +2,7 @@ title: Ivan Korotkov
 description: Lead Go Developer
 url: https://iskorotkov.com
 baseurl: ""
+repository: iskorotkov/iskorotkov
 
 markdown: kramdown
 kramdown:
