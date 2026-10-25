@@ -4,6 +4,8 @@ url: https://iskorotkov.com
 baseurl: ""
 
 markdown: kramdown
+kramdown:
+  input: GFM
 theme: jekyll-theme-primer
 
 plugins:
@@ -19,8 +21,13 @@ social:
 
 include:
   - .well-known
+  - _redirects
 
 exclude:
   - LICENSE
   - CNAME
-  - worker
+  - Gemfile
+  - Gemfile.lock
+  - wrangler.jsonc
+  - .ruby-version
+  - README.md
