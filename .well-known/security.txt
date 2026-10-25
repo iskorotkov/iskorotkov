@@ -1,0 +1,4 @@
+Contact: mailto:ivan@iskorotkov.com
+Expires: 2027-10-25T00:00:00.000Z
+Preferred-Languages: en, ru
+Canonical: https://iskorotkov.com/.well-known/security.txt

@@ -17,6 +17,9 @@ social:
     - https://github.com/iskorotkov
     - https://www.linkedin.com/in/iskorotkov/
 
+include:
+  - .well-known
+
 exclude:
   - LICENSE
   - CNAME
