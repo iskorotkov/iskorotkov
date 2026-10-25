@@ -31,3 +31,5 @@ exclude:
   - wrangler.jsonc
   - .ruby-version
   - README.md
+  - package.json
+  - package-lock.json
