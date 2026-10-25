@@ -1,0 +1,12 @@
+{
+  "name": "iskorotkov-com",
+  "private": true,
+  "scripts": {
+    "build": "JEKYLL_ENV=production bundle exec jekyll build",
+    "deploy": "wrangler deploy",
+    "preview": "wrangler preview"
+  },
+  "devDependencies": {
+    "wrangler": "^4.152.0"
+  }
+}

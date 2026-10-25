@@ -1,10 +1,11 @@
 title: Ivan Korotkov
-description: Senior Go Developer
+description: Lead Go Developer
 url: https://iskorotkov.com
 baseurl: ""
 
 markdown: kramdown
-theme: jekyll-theme-primer
+kramdown:
+  input: GFM
 
 plugins:
   - jekyll-seo-tag
@@ -17,6 +18,17 @@ social:
     - https://github.com/iskorotkov
     - https://www.linkedin.com/in/iskorotkov/
 
+include:
+  - .well-known
+  - _redirects
+
 exclude:
   - LICENSE
   - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - wrangler.jsonc
+  - .ruby-version
+  - README.md
+  - package.json
+  - package-lock.json
