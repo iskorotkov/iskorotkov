@@ -4,7 +4,7 @@
 
 I build high-load backend systems in Go: storage, data ingestion and APIs that stay fast under heavy traffic.
 
-### Now
+## Now
 - Leading the team behind Aviasales' flight ticket price cache: point and wide queries, near-real-time data, millisecond latency
 - Maintaining [iskorotkov/avro](https://github.com/iskorotkov/avro), the continuation of the most popular Go library for Apache Avro
   - faster encoding/decoding of complex structures
@@ -12,10 +12,10 @@ I build high-load backend systems in Go: storage, data ingestion and APIs that s
   - migrating from `github.com/hamba/avro`? Switch the import to `github.com/iskorotkov/avro/v2`
 - Writing about Go performance and concurrency on [Habr](https://habr.com/en/users/iskorotkov/)
 
-### Stack
+## Stack
 Go · Kafka · Avro · ClickHouse · Kvrocks · Redis · PostgreSQL · gRPC · GraphQL · Kubernetes · Terraform
 
-### Contributions
+## Contributions
 [ccxt/go-binance](https://github.com/ccxt/go-binance/pulls?q=author%3Aiskorotkov) · [hirokisan/bybit](https://github.com/hirokisan/bybit/pulls?q=author%3Aiskorotkov) · [tomusdrw/rust-web3](https://github.com/tomusdrw/rust-web3/pull/715)
 
 ---

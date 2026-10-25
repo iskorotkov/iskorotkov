@@ -12,15 +12,19 @@ plugins:
   - jekyll-sitemap
 
 author: Ivan Korotkov
+twitter:
+  card: summary_large_image
 social:
   name: Ivan Korotkov
   links:
     - https://github.com/iskorotkov
     - https://www.linkedin.com/in/iskorotkov/
+    - https://t.me/iskorotkov
 
 include:
   - .well-known
   - _redirects
+  - _headers
 
 exclude:
   - LICENSE
@@ -32,3 +36,9 @@ exclude:
   - README.md
   - package.json
   - package-lock.json
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/og-image.png
