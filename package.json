@@ -2,7 +2,7 @@
   "name": "iskorotkov-com",
   "private": true,
   "scripts": {
-    "build": "bundle install && JEKYLL_ENV=production bundle exec jekyll build",
+    "build": "JEKYLL_ENV=production bundle exec jekyll build",
     "deploy": "wrangler deploy",
     "preview": "wrangler preview"
   },

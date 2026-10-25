@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3"
-gem "jekyll-theme-primer", "~> 0.6"
 gem "kramdown-parser-gfm", "~> 1.1"
 
 # Default gems removed from Ruby 3.4 that Jekyll still needs.
