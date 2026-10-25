@@ -41,4 +41,8 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/og-image.png
+      image:
+        path: /assets/og-image-2x.png
+        width: 2400
+        height: 1260
+        alt: Ivan Korotkov, Lead Go Developer
