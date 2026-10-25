@@ -1,5 +1,5 @@
 title: Ivan Korotkov
-description: Senior Go Developer
+description: Lead Go Developer
 url: https://iskorotkov.com
 baseurl: ""
 
@@ -20,3 +20,4 @@ social:
 exclude:
   - LICENSE
   - CNAME
+  - worker

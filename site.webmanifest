@@ -1,7 +1,7 @@
 {
     "name": "Ivan Korotkov",
     "short_name": "IK",
-    "description": "Senior Go Developer",
+    "description": "Lead Go Developer",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -14,8 +14,8 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "#0B1F33",
+    "background_color": "#0B1F33",
     "display": "standalone",
     "start_url": "/"
 }
