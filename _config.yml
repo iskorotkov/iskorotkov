@@ -8,6 +8,9 @@ markdown: kramdown
 kramdown:
   input: GFM
 theme: jekyll-theme-primer
+sass:
+  quiet_deps: true
+  silence_deprecations: [import, global-builtin, color-functions, slash-div, strict-unary]
 
 plugins:
   - jekyll-seo-tag

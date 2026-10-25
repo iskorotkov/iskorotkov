@@ -4,7 +4,7 @@
   "scripts": {
     "build": "bundle install && JEKYLL_ENV=production bundle exec jekyll build",
     "deploy": "wrangler deploy",
-    "preview": "wrangler versions upload"
+    "preview": "wrangler preview"
   },
   "devDependencies": {
     "wrangler": "^4.152.0"
