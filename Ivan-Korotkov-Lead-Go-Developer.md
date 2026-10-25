@@ -21,13 +21,13 @@ Backend engineer with 5+ years of commercial Go (Golang) experience building hig
 
 ### Lead Software Engineer (Go) — Aviasales — Oct 2026 – Present
 
-- Lead the Prices team that owns the company's flight ticket price cache, used by product teams and external partners.
+High-load flight ticket price cache used by product teams and external partners: point lookups and wide queries with tens of filters and aggregations, near-real-time data, millisecond latency and thousands of RPS.
+
+- Lead the Prices team that owns the cache.
 - Align product managers, analysts and partner teams on goals, scope and deadlines for infrastructure-heavy features.
 - Run code reviews and onboard new team members onto Go codebases.
 
 ### Senior Software Engineer (Go) — Aviasales — Feb 2024 – Oct 2026
-
-High-load ticket cache serving point lookups and wide queries with tens of filters and aggregations, near-real-time data, millisecond latency and thousands of RPS.
 
 - Cut CPU usage and tail latency of bulk Kvrocks lookups (up to 20k tickets per request) by introducing request chunking.
 - Increased price coverage on small markets by building a fallback on ClickHouse aggregations.
@@ -61,8 +61,6 @@ Pharmaceutical online marketplace and distribution platform for major pharmacy c
 - Built concurrent device polling with retries, exponential backoff and circuit breakers; fixed data races in legacy monitoring code.
 
 ### Software Engineer (Go, React) — IT-Swarm — May 2021 – Jul 2022
-
-B2B marketplace connecting businesses with IT service providers.
 
 - Built REST APIs for web and mobile clients and a notification service in Go.
 - Sped up service startup with lazy initialization and dependency injection changes.
